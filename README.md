@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HBhawe
-- 👀 I’m interested in Bioinformatics and Machine Learning
+- 👀 I’m interested in Computational Biology, Machine Learning and Population Genetics.
 - 🌱 I’m currently learning various Bioinformatics tools and softwares while learning Machine learning theory
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
