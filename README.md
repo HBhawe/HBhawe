@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HBhawe
 - 👀 I’m interested in Computational Biology, Machine Learning and Population Genetics.
-- 🌱 I’m currently learning various Bioinformatics tools and softwares while learning Machine learning theory
+- 🌱 I’m currently learning various Bioinformatics tools and softwares while learning Machine learning and Data Science.
 - 📫 How to reach me by email: harshalb97@outlook.com
 
 <!---
