@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HBhawe
-- 👀 I’m interested in Computational Biology
-- 🌱 I’m currently learning various Bioinformatics tools and softwares while learning Machine learning and Data Science.
+- 👀 I’m interested in Computational Biology and Front-end web development.
+- 🌱 I’m currently learning HTML, CSS and JS while while working as a API and Filemaker developer.
 - 📫 How to reach me by email: harshalb97@outlook.com
 
 <!---
