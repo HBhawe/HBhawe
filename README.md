@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HBhawe
-- 👀 I’m interested in C# and Front-end web development.
-- 🌱 I’m currently learning HTML, CSS and JS while while working as a software developer.
+- 👀 I’m interested in Front-end web development.
+- 🌱 I’m currently working on my HTML, CSS and JS skills while while working as a software developer.
 - 📫 How to reach me by email: harshalb97@outlook.com
 
 <!---
